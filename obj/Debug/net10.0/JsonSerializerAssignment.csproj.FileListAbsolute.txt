@@ -1,0 +1,14 @@
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\bin\Debug\net10.0\JsonSerializerAssignment.exe
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\bin\Debug\net10.0\JsonSerializerAssignment.deps.json
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\bin\Debug\net10.0\JsonSerializerAssignment.runtimeconfig.json
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\bin\Debug\net10.0\JsonSerializerAssignment.dll
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\bin\Debug\net10.0\JsonSerializerAssignment.pdb
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.AssemblyInfoInputs.cache
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.AssemblyInfo.cs
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.dll
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\refint\JsonSerializerAssignment.dll
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.pdb
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\JsonSerializerAssignment.genruntimeconfig.cache
+C:\Users\NiTRO\Desktop\JsonSerializerAssignment\JsonSerializerAssignment\obj\Debug\net10.0\ref\JsonSerializerAssignment.dll
